@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+.idea/
+packages/
+Lab2/
+Hello.cs
+Test.cs
